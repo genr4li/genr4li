@@ -9,4 +9,7 @@ I like coding
 <hr/>
 I mostly do Python, but I know HTML and CSS. (not JavaScript thats too much)
 
-I also know a little french
+I also know a some french
+
+Currently working on a game engine. 
+[this guy](https://scratch.mit.edu/users/GL00B/) partially inspired me.
