@@ -5,7 +5,7 @@ I like coding
 >
 > I use VS-Code as my **playground**
 <hr/>
-[YouTube Channel](https://youtube.com/@genrali)
+[youtube](https://www.youtube.com/@genrali) (link not formatting for some reason)
 <hr/>
 I mostly do Python, but I know HTML and CSS. (not JavaScript thats too much)
 
