@@ -1,4 +1,4 @@
-An ambitious highschooler.
+A highschooler.
 
 I like coding
 > And not block coding—that's for kids—real coding.
